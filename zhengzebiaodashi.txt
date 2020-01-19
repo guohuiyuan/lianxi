@@ -1,0 +1,1 @@
+<a href="(.*?)" class="uk-button uk-button-default" style="display:block;margin-bottom:3px;text-align:left;white-space: nowrap;[\s]+text-overflow: ellipsis;[\s]+overflow: hidden;[\s]+padding-left: 3px;[\s]+padding-right: 80px;">(.*?)</a>
