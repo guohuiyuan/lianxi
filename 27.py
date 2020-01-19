@@ -11,5 +11,5 @@ print("正在爬取" + url+"的信息")
 r = requests.get(url, headers=headers)
 demo = r.text.encode("utf8").decode("utf8") # 服务器返回响应
 print(demo)
-
+#
 soup = BeautifulSoup(demo, "html.parser")
